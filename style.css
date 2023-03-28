@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/photo-white-matte-generic-design-remote-control-air-drone-action-camera-flying-sky-under-city-modern-megapolis-background-72543101.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#heading_1,
+#heading_2 {
+  margin-left: 50px;
+  text-decoration: underline;
+}
+div.customerDetails {
+  text-align: left;
+  line-height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  color: whitesmoke;
+}
+
+div.bookingDetails {
+  text-align: left;
+  line-height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  color: whitesmoke;
+}
+
+select {
+  border-radius: 30px;
+  width: 70px;
+}
